@@ -178,7 +178,6 @@ function render()
             aHoverData[ v.name ].hover = false
 
             if Y == v.icon_pos[ 2 ] + 5 then
-                iprint('nah')
                 aHoverData[ v.name ].startTime, aHoverData[ v.name ].endTime = nil, nil
             end
 
