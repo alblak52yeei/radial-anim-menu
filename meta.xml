@@ -1,0 +1,9 @@
+<meta>
+	<info author='rdror' name='Federation MTA Test Task #1'/>
+	<oop>true</oop>
+
+	<script src='CMenu.lua' type='client' cache='false'/>
+
+	<file src='Resources/JosefinSans.ttf'/>
+	<file src='Resources/circle.png'/>
+</meta>
